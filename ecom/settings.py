@@ -108,8 +108,8 @@ DATABASES = {
         'NAME': 'railway',
         'USER': 'root',
         'PASSWORD': os.environ['DB_PASSWORD'],
-        'HOST': 'autorack.proxy.rlwy.net',  # Use the private endpoint
-        'PORT': '54411', 
+        'HOST': 'shinkansen.proxy.rlwy.net',  # Use the private endpoint
+        'PORT': '30636', 
     }
 }
 
